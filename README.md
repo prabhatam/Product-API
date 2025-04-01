@@ -1,5 +1,5 @@
 
-# Simple CRUD API with Express & MongoDB
+# Product API with Express & MongoDB
 
 A RESTful API for product management built with Express.js, Mongoose, and Node.js.
 
